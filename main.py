@@ -1,3 +1,3 @@
 i=0
 while i<=0:
-    print("I WILL PRINT FOREVER")
+    print("I'M STILL HERE FOR BLOOD")
